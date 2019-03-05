@@ -1,7 +1,5 @@
-React Hello World Demo
-======================
-
-Just say hello from react.
+JavaScript React Counter Set State Demo
+=======================================
 
 ```
 npm install
